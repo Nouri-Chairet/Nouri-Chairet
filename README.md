@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nouri-Chairet
 - 👀 I’m interested in web devolpment 
-- 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERM stack
+- 🧑‍🎓currently enroled At ISSAT sousse as a software engineer student
 - 📫 How to reach me  nouric576@gmail.com .
 
 <!---
